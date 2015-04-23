@@ -12,5 +12,8 @@
     "WordPress"
   ],
   "author": "Damian Suarez <rdsuarez@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "wpcom-oauth-cors": "^1.0.0"
+  }
 }
